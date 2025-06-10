@@ -1,0 +1,3 @@
+Hello, this is a sample file.
+Python is a fantastic programming language!
+Let's add a new line to the file.
